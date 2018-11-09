@@ -1,5 +1,11 @@
 ---
 - date: 3.10.18
+  team1: SU
+  team2: SSE
+  spectators: ''
+  score_team1: 27
+  score_team2: 97
+- date: 3.10.18
   team1: KI
   team2: SU
   spectators: ''
