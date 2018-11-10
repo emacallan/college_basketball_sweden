@@ -5,13 +5,32 @@
 layout: default
 ---
 
+<header id="top" class="header">
+  
+</header>
+
+<section id="services" class="services bg-primary">
+    <div class="container">
+        <div class="row text-center">
+            College Basket Sverige
+        </div>
+    </div>
+</section>
+
+<section id="services" class="services bg-secondary">
+    <div class="container">
+        <div class="row text-center">
+            Next match:
+        </div>
+    </div>
+</section>
 <!-- Services -->
 <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 <section id="services" class="services bg-primary">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-10 col-lg-offset-1">
-                <h2>What's in the package?</h2>
+                <h2>How can you join?</h2>
                 <hr class="small">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
@@ -81,8 +100,40 @@ layout: default
     <!-- /.container -->
 </section>
 
+<section id="services" class="services bg-secondary">
+    <div class="container">
+        <div class="row text-center">
+            Latest news
+        </div>
+    </div>
+</section>
+
+<section id="services" class="services bg-primary">
+    <div class="container">
+        <div class="row text-center">
+            Best pictures gallery
+        </div>
+    </div>
+</section>
+
+<section id="services" class="services bg-secondary">
+    <div class="container">
+        <div class="row text-center">
+            Past games
+        </div>
+    </div>
+</section>
+
+<section id="services" class="services bg-primary">
+    <div class="container">
+        <div class="row text-center">
+            logos
+        </div>
+    </div>
+</section>
+
 <!-- Call to Action -->
-<aside class="call-to-action bg-primary">
+<aside class="call-to-action bg-secondary">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -90,9 +141,7 @@ layout: default
                 <a href="" class="btn btn-lg btn-light">Contact us!</a>
                 <br />
                 <h4>Or drop a line: xxx@com</h4>
-
             </div>
         </div>
     </div>
-
 </aside>
