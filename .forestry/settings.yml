@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/games.yml
   label: Games database
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
